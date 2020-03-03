@@ -1,0 +1,4 @@
+ptl/test01ptlSearch
+ptl/test02ptlTowerControl
+ptl/test03ptlBatchCommandLight
+#ptl/test04ptlBatchCommandLightBubble
